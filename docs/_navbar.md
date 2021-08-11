@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
-* Getting started
-* [chinese](/)
-* [english](/en/)
-* [:us:, :uk:](/)
-* [:cn:](/zh-cn/)
+* [Getting started](/README)
+* [Hardware](/HwAndRiscv/HwAndRiscv)
+* [Software & OS](/SwAndOs/SwAndOs)
+* [Web](/Web/Web)
+* [Algorithm](/Algorithm/Algorithm)
