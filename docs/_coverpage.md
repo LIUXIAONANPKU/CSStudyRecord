@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.svg)
 
-# CS STUDY Notes
+# CS Study Notes
 
 > CS 学习笔记
 
